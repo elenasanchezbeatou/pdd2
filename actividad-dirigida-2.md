@@ -1,3 +1,5 @@
+Este es el codigo en bruto de lña Actividad dos que esta en el scraping desarrollado. 
+
 # Actividad dirigida 2
 
 ```
